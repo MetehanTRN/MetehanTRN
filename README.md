@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/95168071/165287612-285c8a80-e617-4723-bb88-23869a20cbac.gif" width="400" height="320" /> 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/95168071/165287612-285c8a80-e617-4723-bb88-23869a20cbac.gif" width="380" height="320" /> 
 
 ## I'm a Student 👨‍🎓 and Gamer 🎮 🤭
 - 👋 Hi, I’m Metehan Turan
